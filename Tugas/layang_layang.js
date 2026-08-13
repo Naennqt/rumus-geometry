@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")({ sigint: true });
 console.log("------------------------------")
-console.log("Kalkulator LAYANG LAYANG")
+console.log("KALKULATOR LAYANG LAYANG")
 console.log("------------------------------")
 
 let d1 = Number(prompt("Masukkan Panjang Diagonal(cm) 1 :"));
